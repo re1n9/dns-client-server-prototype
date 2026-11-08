@@ -77,4 +77,3 @@ src/
 ## Project context
 
 This was a course team project. The repository describes the functionality verifiable in the archived code and does not assign unverified individual ownership of particular components.
-

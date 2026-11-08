@@ -1,0 +1,3 @@
+Cache
+www.bupt.edu.cn IN A 192.168.1.25
+bupt.edu.cn IN MX mails.bupt.edu.cn

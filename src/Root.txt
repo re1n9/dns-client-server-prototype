@@ -1,0 +1,7 @@
+Root
+cn IN NS 127.0.0.4
+gov IN NS 127.0.0.4
+com IN NS 127.0.0.5
+org IN NS 127.0.0.5
+arpa IN NS 127.0.0.8
+中国 IN NS 127.0.0.4
